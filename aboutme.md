@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: ADC
+subtitle: Mis mains
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi rol principal en el LoL es el de AD Carry y estos son mis mains:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Vayne
+- Kai'sa
+- Tristana
 
-What else do you need?
 
-### My story
+### Mi historia
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Empecé probando diferentes roles, pero me terminé quedando con el rol de AD Carry por la adrenalina que produce ser el personaje que más daño hace y el que más rápido puede morir a la vez
