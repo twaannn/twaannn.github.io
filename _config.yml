@@ -20,11 +20,11 @@ author: Antoine Román
 ###############################################
 
 navbar-links:
-  Sobre el rol: "aboutme"
+  Historia: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Lore: "https://universe.leagueoflegends.com/es_ES/story/champion/kaisa/"
+  Lore: https://universe.leagueoflegends.com/es_ES/region/void/
 
 ################
 # --- Logo --- #
