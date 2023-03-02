@@ -12,7 +12,6 @@ En este post vas a encontrar una breve guía e introducción al rol más complic
 
 ## Tipos de ADC
 
-Here's a useless table:
 
 | Categoría | Descripción | Ejemplos|
 | :------ |:--- | :--- |
