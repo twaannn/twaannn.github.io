@@ -1,17 +1,37 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Kai'sa
+subtitle: La hija del vacío
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Tal vez lo más extraordinario de la intrépida cazadora del Vacío conocida como Kai'Sa sea su ordinario nacimiento. No descendió de guerreros tribales curtidos por generaciones de batalla, ni fue convocada desde tierras lejanas para luchar contra la amenaza incognoscible que acechaba bajo Shurima. Era una niña normal, con unos padres que se querían y que llamaban hogar a los implacables desiertos del sur. Allí pasaba sus días jugando con sus amigos y sus noches soñando con su lugar en el mundo.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+En su décimo verano, el destino de la joven Kaisa cambiaría para siempre. Si hubiera sido mayor, quizá se habría percatado de los eventos inusuales que habían comenzado a desarrollarse en las aldeas: todos los días, su madre la instaba a quedarse en casa por miedo a los extraños que deambulaban por la zona, exigiendo tributo a los poderes oscuros de las profundidades. Kaisa y sus amigos no lo creían, hasta que una noche se encontraron con un establo lleno de cabras para sacrificios compradas a pastores nómadas. Usando el cuchillo que su padre le había regalado en su octavo cumpleaños, cortó sus ataduras y liberó a los animales en un barranco cercano. Parecía una broma inofensiva, hasta que sucedió lo impensable. La tierra comenzó a temblar, destellos de luz abrasaron el cielo y los niños empezaron a correr por sus vidas.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+El Vacío se había despertado. Una enorme grieta dividió el suelo y se tragó la aldea de Kaisa y a todos los que la habitaban, sin dejar nada más que la arena atravesada por columnas retorcidas tan negras como la noche.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Kai'Sa recuperó la conciencia y vio que estaba atrapada bajo tierra. El miedo la paralizaba, pero todavía había esperanza: podía escuchar los gritos apagados de otros supervivientes. Se llamaban mutuamente sin fuerzas, repitiendo sus nombres uno por uno como un mantra. Tristemente, al tercer día, la suya era la única voz que quedaba. Sus amigos y familiares habían muerto. Estaba sola en la oscuridad.
+
+Cuando todo parecía perdido, vio la luz.
+
+La siguió.
+
+Por el camino encontró sustento escaso. En medio de los escombros del colapso había odres desgarrados, melocotones podridos... Lo que fuese para mantener a raya la desnutrición. Poco a poco, el miedo volvió a ocupar el lugar del hambre. Entró en una enorme caverna iluminada por un resplandor violáceo extraño y pudo ver que ya no estaba sola.
+
+Podía oír a criaturas pululando en las profundidades. La primera que fue a por Kaisa no era más grande que ella, así que agarró su cuchillo con ambas manos, lista para defenderse. El horroroso ente del Vacío la tiró al suelo, pero ella le clavó el filo en su palpitante corazón y los dos cayeron más profundo en el abismo.
+
+La criatura parecía estar muerta, pero su piel antinatural se había apoderado de la carne del brazo de Kai'Sa. La concha oscura le causaba un hormigueo, pero era dura como el acero al tacto. Presa del pánico, Kaisa rompió su cuchillo tratando de quitársela, pero, cuando llegaron las bestias más grandes, usó la concha como escudo para escapar.
+
+Poco después, se dio cuenta de que el caparazón estaba pasando a formar parte de ella. A medida que su lucha diaria por sobrevivir se fue alargando durante años, esta segunda piel creció con ella, y también su determinación.
+
+Ahora tenía más que esperanza; tenía un plan. Luchar. Sobrevivir. Encontrar el modo para regresar.
+
+Había dejado de ser una niña asustada para convertirse en una superviviente intrépida. De presa a depredadora. Durante casi una década, ha vivido entre dos mundos en un intento de mantenerlos separados: el Vacío ansía consumir no solo las aldeas dispersas de Shurima, sino toda Runaterra. Y ella no va a permitir que eso suceda.
+
+Aunque ha matado incontables seres del Vacío, comprende que muchas de las personas a las que protege la verían como un monstruo. De hecho, su nombre se ha convertido en leyenda, un eco de los antiguos horrores de la condenada Icathia.
+
+Ya no era Kaisa, sino Kai'Sa.
