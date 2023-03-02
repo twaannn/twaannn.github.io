@@ -2,9 +2,9 @@
 layout: post
 title: Kai'sa
 subtitle: La hija del vacío
-cover-img: /assets/img/chengwei-pan-1.jpg
-thumbnail-img: /assets/img/chengwei-pan-1.jpg
-share-img: /assets/img/chengwei-pan-1.jpg
+cover-img: /assets/img/kaisa.jpg
+thumbnail-img: /assets/img/kaisa.jpg
+share-img: /assets/img/kaisa.jpg
 
 ---
 
