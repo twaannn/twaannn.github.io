@@ -8,9 +8,9 @@ comments: true
 
 En este post vas a encontrar una breve guía e introducción al rol más complicado del juego, el rol de AD Carry
 
-**Here is some bold text**
+¿Qué es un ADC?: Son las siglas en ingles de Attack Damage Carry (ADC), y su tarea es causar el mayor DPS o daño por segundo posible (dps = damage per second) a los enemigos. Los ADC juegan en el carril inferior (Bot Lane) y van acompañados de un Soporte que se encarga de protegerlo del resto del equipo rival.
 
-## Here is a secondary heading
+## Tipos de ADC
 
 Here's a useless table:
 
@@ -22,7 +22,6 @@ Here's a useless table:
 | Lane bully | Los lane bully son lo contrario de los hyper-carries, pues sobresalen en ganar la línea en el juego temprano y utilizar esa ventaja para cerrarlo también en el juego temprano | Lucian, Draven |
 
 
-¿Qué es un ADC?: Son las siglas en ingles de Attack Damage Carry (ADC), y su tarea es causar el mayor DPS o daño por segundo posible (dps = damage per second) a los enemigos. Los ADC juegan en el carril inferior (Bot Lane) y van acompañados de un Soporte que se encarga de protegerlo del resto del equipo rival.
 
 • Farmear:
 
