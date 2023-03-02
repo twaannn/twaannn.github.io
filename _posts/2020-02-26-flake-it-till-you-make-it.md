@@ -2,10 +2,10 @@
 layout: post
 title: Kai'sa
 subtitle: La hija del vacío
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+cover-img: /assets/img/chengwei-pan-1.jpg
+thumbnail-img: /assets/img/chengwei-pan-1.jpg
+share-img: /assets/img/chengwei-pan-1.jpg
+
 ---
 
 Tal vez lo más extraordinario de la intrépida cazadora del Vacío conocida como Kai'Sa sea su ordinario nacimiento. No descendió de guerreros tribales curtidos por generaciones de batalla, ni fue convocada desde tierras lejanas para luchar contra la amenaza incognoscible que acechaba bajo Shurima. Era una niña normal, con unos padres que se querían y que llamaban hogar a los implacables desiertos del sur. Allí pasaba sus días jugando con sus amigos y sus noches soñando con su lugar en el mundo.
