@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Cómo comenzar a jugar de AD Carry
+subtitle: Una breve guía
+cover-img: /assets/img/
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+En este post vas a encontrar una breve guía e introducción al rol más complicado del juego, el rol de AD Carry
 
 **Here is some bold text**
 
