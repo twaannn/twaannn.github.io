@@ -2,7 +2,7 @@
 layout: post
 title: Cómo comenzar a jugar de AD Carry
 subtitle: Una breve guía
-cover-img: /assets/img/vayne.png
+cover-img: /assets/img/adcs.webp
 comments: true
 ---
 
